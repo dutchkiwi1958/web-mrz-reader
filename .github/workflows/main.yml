@@ -1,4 +1,3 @@
-build-demo.yml
 name: Build MRZ Reader Demo
 
 on:
